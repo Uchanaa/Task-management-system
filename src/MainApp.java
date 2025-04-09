@@ -99,7 +99,7 @@ public class MainApp {
                     }
                     break;
                 case 0:
-                    System.out.println("ნახვამდის!");
+                    System.out.println("ნახვამდის " + username);
                     return;
                 default:
                     System.out.println("არასწორი ბრძანება.");
