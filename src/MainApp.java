@@ -95,7 +95,7 @@ public class MainApp {
                     if (detailTask != null) {
                         System.out.println(detailTask.getDetails());
                     } else {
-                        System.out.println("Task არ არსებობს.");
+                        System.out.println("Task არ არსებობს!");
                     }
                     break;
                 case 0:
